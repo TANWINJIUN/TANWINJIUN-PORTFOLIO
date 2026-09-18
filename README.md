@@ -356,9 +356,9 @@ Retail\_Analytics\_Portfolio/
 
 │
 
-├── powerbi/
+├── powerbi/(Available Upon Requests)
 
-│└── retail\_dashboard.pbix
+│└── retail\_dashboard.pbix(Available Upon Requests)
 
 │
 
