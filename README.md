@@ -1,5 +1,5 @@
 # TAN WIN JIUN– DATA ANALYST PORTFOLIO
-### Welcome~! This portfolio showcases projects demonstrating data analysis, business intelligence and dashboard development skills using Microsoft Excel, SQL and Power BI.
+### Welcome~! This portfolio showcases projects demonstrating data analysis, business intelligence and dashboard development skills using Microsoft Excel, Microsoft Structured Query Language Server and Microsoft Power Business Intelligence.
 ## Projects
 **1. Retail Sales And Performance Analytics— Superstore(2023— 2026)**
 
