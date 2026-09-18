@@ -17,19 +17,19 @@ The analysis focuses on a central business question:
 
 ## Dashboard Preview
 
-### Executive Overview
+### 1. Executive Overview
 
 ![Executive Overview](Project/Screenshot/EXECUTIVE_OVERVIEW.png)
 
-### Product Performance
+### 2. Product Performance
 
 ![Product Performance](Project/Screenshot/PRODUCT_PERFORMANCE.png)
 
-### Customer Behaviour And RFM Analysis
+### 3. Customer Behaviour And RFM Analysis
 
 ![Customer Behaviour](Project/Screenshot/CUSTOMER_BEHAVIOUR_AND_RFM_ANALYSIS.png)
 
-### Geographic And Regional Performance
+### 4. Geographic And Regional Performance
 
 ![Regional Analysis](Project/Screenshot/GEOGRAPHIC_AND_REGIONAL_PERFORMANCE.png)
 
