@@ -19,19 +19,19 @@ The analysis focuses on a central business question:
 
 ### Executive Overview
 
-![Executive Overview](project/screenshot/EXECUTIVE_OVERVIEW.png)
+![Executive Overview](Project/Screenshot/EXECUTIVE_OVERVIEW.png)
 
 ### Product Performance
 
-![Product Performance](project/screenshot/PRODUCT_PERFORMANCE.png)
+![Product Performance](Project/Screenshot/PRODUCT_PERFORMANCE.png)
 
 ### Customer Behaviour And RFM Analysis
 
-![Customer Behaviour](project/screenshot/CUSTOMER_BEHAVIOUR_AND_RFM_ANALYSIS.png)
+![Customer Behaviour](Project/Screenshot/CUSTOMER_BEHAVIOUR_AND_RFM_ANALYSIS.png)
 
 ### Geographic And Regional Performance
 
-![Regional Analysis](project/screenshot/GEOGRAPHIC_AND_REGIONAL_PERFORMANCE.png)
+![Regional Analysis](Project/Screenshot/GEOGRAPHIC_AND_REGIONAL_PERFORMANCE.png)
 
 * * *
 
