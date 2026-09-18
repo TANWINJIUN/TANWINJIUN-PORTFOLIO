@@ -15,7 +15,7 @@ The analysis focuses on a central business question:
 
 * * *
 
-## Dashboard Preview
+## Dashboard Previews
 
 ### 1. Executive Overview
 
